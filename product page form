@@ -1,0 +1,5 @@
+<form action="/cart/add" method="post" enctype="multipart/form-data" id="addToCart"  > 
+add form data here
+
+add class on add to cart button "add-to-cart button customAddToCart"
+</form>
